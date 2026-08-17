@@ -1,3 +1,6 @@
 [submodule "todo-fe"]
 	path = todo-fe
 	url = https://github.com/hrc-rumqwd/todo-react-app.git
+[submodule "todo-be"]
+	path = todo-app-backend
+	url = https://github.com/hrc-rumqwd/todo-app-backend.git
